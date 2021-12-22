@@ -14,7 +14,9 @@
         "_locales/zh-cn/neopixel-strings.json",
         "_locales/zh-tw/neopixel-strings.json",
         "_locales/de/neopixel-strings.json",
-        "_locales/de/neopixel-jsdoc-strings.json"
+        "_locales/de/neopixel-jsdoc-strings.json",
+        "_locales/he/neopixel-strings.json",
+        "_locales/he/neopixel-jsdoc-strings.json"
     ],
     "testFiles": [
         "neotest.ts"
